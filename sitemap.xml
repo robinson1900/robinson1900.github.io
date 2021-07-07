@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://robinson.gitee.io/</loc>
+    <lastmod>2021-07-08T01:00:43+08:00</lastmod>
+  </url><url>
+    <loc>https://robinson.gitee.io/post/</loc>
+    <lastmod>2021-07-08T01:00:43+08:00</lastmod>
+  </url><url>
+    <loc>https://robinson.gitee.io/blog2/</loc>
+    <lastmod>2021-07-08T01:00:43+08:00</lastmod>
+  </url><url>
+    <loc>https://robinson.gitee.io/blog/</loc>
+    <lastmod>2021-07-07T01:34:03+08:00</lastmod>
+  </url><url>
+    <loc>https://robinson.gitee.io/tags/</loc>
+  </url>
+</urlset>

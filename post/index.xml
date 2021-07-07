@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 1900</title>
+    <link>https://robinson.gitee.io/post/</link>
+    <description>Recent content in Posts on 1900</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jul 2021 01:00:43 +0800</lastBuildDate><atom:link href="https://robinson.gitee.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于到底要做什么样的组织形态才有达到目标可能性的思考</title>
+      <link>https://robinson.gitee.io/blog2/</link>
+      <pubDate>Thu, 08 Jul 2021 01:00:43 +0800</pubDate>
+      
+      <guid>https://robinson.gitee.io/blog2/</guid>
+      <description>问题：  雇佣类员工与事物的不匹配性受客观因素的影响：如，接受薪资决定能力，角色决定参与度，直接影响到产品效果。 由于传统稳定雇佣结构的特征，管理成本（此处指精力成本及人员培养成本）与创造物的不平衡，同时还具备成熟人员流失的风险。  思考：  针对以上问题，结合大部分现代传统企业特征，是否传统的雇佣关系类型的企业模式已经不适配现代劳动人群特征，需要完全革新，甚至是创新的方式？ 对于以上观点的思考，另一方面，注重产品质量及精致主义的模式的市场需求，会逐渐被市场所需要，因此，传统的以雇佣关系为主的组织形式会消亡，取而代之的是缺一不可，互相需要，且分配均衡的合作关系？也就是说(猜想)，是否未来会存在一种没有雇佣关系的组织形式，参与组织行为的人都同时是产品的生产者及组织的拥有者？而这种组织结构的稳定性及效率会比传统雇佣关系模式更高？效率和产出更高？同时参与者的收益，自主时间，及工作的热情持久度也会更高？更能以几乎没有的成本吸引到有能力去共同创造这种新型模式的精英，同时也因此提高仍在参与者的认知与见识？ 大胆设想（脑洞）：是否可以改变现有的以培养被雇佣者完成获得剩余价值的这种方式？改为，雇佣短期觅职者，把产品行为（课堂甚至课后）进行任务拆分，核心思维培养部分交由组织拥有者完成（主要课程内容），而检查性及辅导性部分则由兼职（助教）完成，从而更进一步明确分工，同时更好的对核心产品的价值输出的稳定性，即良品率，同时，大程度的保留了主要授课者的精力价值。参考阳光心霖班主任，助教，主教间协同关系。 若以上思想可得以落实，则招聘方向则可调整为预定类，针对在校大学生及研究生，非以全职为目的的求职者，是否招聘到高质量的求职者几率更高？ 最后，关于组织拥有参与者的角色定位，每一位组织拥有参与者，除其他技能及资源外，必须拥有一个核心方向的产品技能，及研发能力。(比如，就现在的产品线来说，有的拥有参与者核心方向是Big Muzzy，有的拥有参与者的核心方向是理科思维，有的拥有参与者的核心方向是归纳性思维，有的拥有参与者的核心方向是丰富的社会资源及强大的落实能力)，又或者，有的拥有参与者的核心方向是极强的直觉，尤其是关键时刻直觉越强。因此，若此设想能得以（部分）实现，则组织的拥有者与参与者则有极大可能性都是精英。 写在最最后：以上关于组织结构的拥有参与者（可以理解为都是现代企业组织结构中的股东们）们的回报（报酬）分配，则对如何分配提出挑战（自己们对自己们的劳动评估制度及分配制度），以保证此合作方式能得以延续，亦为古人云“不患寡而患不均”。  总结：以上思考是对现在这个时代的组织结构形态及传统认知提出质疑及挑战。 </description>
+    </item>
+    
+    <item>
+      <title>My First Blog--我的第一篇博客</title>
+      <link>https://robinson.gitee.io/blog/</link>
+      <pubDate>Wed, 07 Jul 2021 01:01:11 +0800</pubDate>
+      
+      <guid>https://robinson.gitee.io/blog/</guid>
+      <description>本项目内容为：如何用hugo搭建个人博客
+ Markdowns&amp;ndash;基本标记语言   _italic 斜体字 **bold 粗体字 Both italic and bold  #header one   ##header two   ###header three   ####header four   #####header five   ######header six    </description>
+    </item>
+    
+  </channel>
+</rss>
